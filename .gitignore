@@ -1,3 +1,4 @@
 node_modules
 .env
 some_todo_db_dunno_what_exactly_yet
+users.db
